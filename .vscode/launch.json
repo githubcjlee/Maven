@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GrabStocks",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.GrabStocks",
+            "projectName": "my-app"
+        }
+    ]
+}

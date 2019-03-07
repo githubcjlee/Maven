@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestRobotBuilder",
+            "request": "launch",
+            "mainClass": "com.mycompany.builder.TestRobotBuilder",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ScrabbleTestThreads",
             "request": "launch",
             "mainClass": "com.mycompany.singleton.ScrabbleTestThreads",

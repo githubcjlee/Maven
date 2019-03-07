@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EnemyShipTesting",
+            "request": "launch",
+            "mainClass": "com.mycompany.factory.EnemyShipTesting",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GrabStocks",
             "request": "launch",
             "mainClass": "com.mycompany.app.GrabStocks",

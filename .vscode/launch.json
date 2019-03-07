@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PizzaMaker",
+            "request": "launch",
+            "mainClass": "com.mycompany.decorator.PizzaMaker",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestCloning",
             "request": "launch",
             "mainClass": "com.mycompany.prototype.TestCloning",

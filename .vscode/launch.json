@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestCloning",
+            "request": "launch",
+            "mainClass": "com.mycompany.prototype.TestCloning",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestRobotBuilder",
             "request": "launch",
             "mainClass": "com.mycompany.builder.TestRobotBuilder",

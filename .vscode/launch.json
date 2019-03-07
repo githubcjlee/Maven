@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ScrabbleTestThreads",
+            "request": "launch",
+            "mainClass": "com.mycompany.singleton.ScrabbleTestThreads",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScrabbleTest",
+            "request": "launch",
+            "mainClass": "com.mycompany.singleton.ScrabbleTest",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - EnemyShipTesting",
             "request": "launch",
             "mainClass": "com.mycompany.factory.EnemyShipTesting",
